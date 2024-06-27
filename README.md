@@ -1,4 +1,4 @@
-# Machine-Learning-Training-Journey
+# Machine Learning Training Journey
 
 Welcome to my GitHub repository dedicated to my journey in learning machine learning. 
 Here, you will find a collection of projects, exercises, notes, and resources that I have created and used throughout my studies.
